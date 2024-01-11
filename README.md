@@ -1,22 +1,16 @@
-## To-do List Application
+## To-do List
 
 <!--- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). --->
 
-To view, install node dependencies for the project with `npm install next@latest react@latest react-dom@latest`
+To view, install node dependencies
 
-Run the development server:
+`npm install next@latest react@latest react-dom@latest`
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Run the development server
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the project.
+`npm run dev`
+
+Open [http://localhost:3000](http://localhost:3000) to see the app!
 
 <!---
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
